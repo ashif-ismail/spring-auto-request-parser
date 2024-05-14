@@ -21,7 +21,7 @@
    <dependency>
        <groupId>com.ashifismail</groupId>
        <artifactId>spring-auto-request-parser</artifactId>
-       <version>1.0.0</version>
+       <version>1.1</version>
    </dependency>
    ```
 
