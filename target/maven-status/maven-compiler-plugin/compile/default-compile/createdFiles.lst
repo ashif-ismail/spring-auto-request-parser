@@ -1,0 +1,3 @@
+com/ashifismail/autorequest/web/RequestContent.class
+com/ashifismail/autorequest/config/WebAutoConfig.class
+com/ashifismail/autorequest/web/RequestContentArgumentResolver.class
