@@ -1,0 +1,12 @@
+<profiles>
+	<profile>
+		<id>ossrh</id>
+		<properties>
+			<gpg.executable>gpg</gpg.executable>
+			<gpg.passphrase>spring-auto-request-parser</gpg.passphrase>
+		</properties>
+	</profile>
+</profiles>
+<activeProfiles>
+<activeProfile>ossrh</activeProfile>
+</activeProfiles>
