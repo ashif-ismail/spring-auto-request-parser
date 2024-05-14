@@ -10,7 +10,7 @@
 	</parent>
 	<groupId>com.ashifismail</groupId>
 	<artifactId>spring-auto-request-parser</artifactId>
-	<version>1.0.0</version>
+	<version>1.0.1</version>
 	<name>Spring Auto Request Parser</name>
 	<description>Automatically parse HTTP requests into Java objects with custom annotations in Spring Boot.</description>
 	<url>https://github.com/yourcompany/spring-auto-request-parser</url>
