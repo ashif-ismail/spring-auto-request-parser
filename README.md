@@ -1,6 +1,6 @@
 ## 🚀 Spring Auto Request Parser 🚀
 
-🌟 **Simplify your Spring MVC applications with Spring Auto Request Parser!** This powerful library automatically configures custom argument resolution to effortlessly convert incoming HTTP requests into Java objects, based on your predefined annotations. Just annotate, and you're ready to go!
+🌟 **Simplify your Spring Boot applications with Spring Auto Request Parser!** This powerful library automatically configures custom argument resolution to effortlessly convert incoming HTTP requests into Java objects, based on your predefined annotations. Just annotate, and you're ready to go!
 
 ### Key Advantages 🏆
 
