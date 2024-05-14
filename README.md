@@ -30,7 +30,7 @@
    Use the `@RequestContent` annotation on any controller method parameter that you want to be automatically populated from the request body:
 
    ```java
-   import com.ashifismail.web.RequestContent;
+   import com.ashifismail.autorequest.web.RequestContent;;
    import org.springframework.web.bind.annotation.PostMapping;
    import org.springframework.web.bind.annotation.RestController;
 
