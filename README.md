@@ -50,4 +50,4 @@
 
 For full documentation, examples, and contributing guidelines, check out our [GitHub repository](#).
 
-Elevate your Spring Boot applications with effortless data handling today! 🌐🚀
+Elevate your Spring Boot applications with effortless data handling! 🌐🚀
