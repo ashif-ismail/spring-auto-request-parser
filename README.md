@@ -51,3 +51,7 @@
 For full documentation, examples, and contributing guidelines, check out our [GitHub repository](#).
 
 Elevate your Spring Boot applications with effortless data handling! 🌐🚀
+
+## Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=ashif-ismail/spring-auto-request-parser&type=Date)](https://star-history.com/#ashif-ismail/spring-auto-request-parser&Date)
